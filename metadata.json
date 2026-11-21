@@ -1,0 +1,6 @@
+{
+  "name": "Parlo — Conversational Language Partner",
+  "description": "A real-time voice language learning studio with an interactive AI conversation partner, live transcripts, grammar coaching, and scenario immersion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
